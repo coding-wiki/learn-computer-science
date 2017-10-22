@@ -12,7 +12,7 @@ of Computer Programs - Book](https://mitpress.mit.edu/sicp/full-text/book/book-Z
 
 
 # Notes
-CS61 - https://cs61.seas.harvard.edu/wiki/2017/Prerequisites
+CS61 Prerequisites - https://cs61.seas.harvard.edu/wiki/2017/Prerequisites
 - Write a "Hello world" program:
   ```c
   #include <iostream>
@@ -28,3 +28,5 @@ CS61 - https://cs61.seas.harvard.edu/wiki/2017/Prerequisites
 - Use typedef
 - Be able to use the string functions (strcmp, strlen, strcat, strdup) correctly together with memory management
 - Write a function that takes three arguments, a size and two objects, and exchanges the values of the two objects (each of which have the given size).
+
+- Resource for prerequisites: [C for Java Programmers](http://www.cs.cornell.edu/courses/cs414/2005sp/cforjava.pdf)
